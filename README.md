@@ -1,0 +1,2 @@
+# MongoCompas
+PRIMERA PRACTICA DE MONGO
